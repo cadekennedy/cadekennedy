@@ -2,6 +2,7 @@
 I will be utilizing this GitHub repository to highlight key information about my professional profile that I feel is not completely necessary on my standard one-page resume. If you are reading this as an employer please feel free to contact me with any questions you may have. 
 #### 931-273-5114
 #### cadekennedy0502@gmail.com
+#### https://www.linkedin.com/in/ckennedy14/
 
 ## Personal Projects
 Personal projects will be uploaded to this GitHub repository.
