@@ -18,8 +18,7 @@ The provided code will be for local HTML file parsing due to security reasons fo
 
 ### Samuel Harper: Life Coach samtharper615@gmail.com				     
 Graduate of Vanderbilt University and Stanford University.           
-
-### Rajesh Manicavasagasm: Professor rmanicavasagasm@hotmail.com                                           
+                                           
 ### Jeffery Porter: Store Manager at Academy Sports + Outdoors Japorter67@gmail.com
 20+ Years of Retail Experience
 
