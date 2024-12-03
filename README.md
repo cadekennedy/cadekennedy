@@ -23,7 +23,7 @@ Mathematical paper about the mathematical structure of Long Short-Term Memory Re
 ## References 
 
 ### Deleith Allen: Deleith.allen.ctr@us.af.mil
-
+Oracle WAM Administrator for BNH at AEDC
 
 ### Samuel Harper: Life Coach samtharper615@gmail.com				     
 Graduate of Vanderbilt University and Stanford University. 
