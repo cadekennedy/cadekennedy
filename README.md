@@ -13,11 +13,21 @@ I have provided two fairly similar .ipynb files that will showcase Machine Learn
 #### Web Scraping Project in C# using NET7.0
 The provided code will be for local HTML file parsing due to security reasons for my client Urban Science. The "WebScraper" project is very easily transformed into an actual Web Scraper but is built for a specific website.
 
+#### Anomaly Detection in Stock Market Data
+Utilizing K-Means, IsolationForest, and Long Short-Term Memory RNNs to find anomalies in Stock Market data. This project is on "AnomalyDetectionDiS.ipynb" for curious inquiries.
+
+#### Mathematics Paper of Mathematical Theory of LSTMs 
+Mathematical paper about the mathematical structure of Long Short-Term Memory Recurrent Neural Networks.
+"MathTheoryLSTM.pdf" 
 
 ## References 
 
+### Deleith Allen: Deleith.allen.ctr@us.af.mil
+
+
 ### Samuel Harper: Life Coach samtharper615@gmail.com				     
-Graduate of Vanderbilt University and Stanford University.           
+Graduate of Vanderbilt University and Stanford University. 
+Director of 911 Services: Manchester, TN
                                            
 ### Jeffery Porter: Store Manager at Academy Sports + Outdoors Japorter67@gmail.com
 20+ Years of Retail Experience
