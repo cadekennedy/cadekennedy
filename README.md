@@ -141,34 +141,20 @@ Designed and delivered an **Automotive Industry dashboard** for data visualizati
 
 ---
 
-## 📬 Contact
+## Contact
 
 | | |
 |---|---|
-| 📞 Phone | 931-273-5114 |
-| 📧 Email | [cadekennedy0502@gmail.com](mailto:cadekennedy0502@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/ckennedy14](https://www.linkedin.com/in/ckennedy14) |
-| 🐙 GitHub | [github.com/cadekennedy](https://github.com/cadekennedy) |
+| Email | [cadekennedy0502@gmail.com](mailto:cadekennedy0502@gmail.com) |
+| LinkedIn | [linkedin.com/in/ckennedy14](https://www.linkedin.com/in/ckennedy14) |
 
 **References available upon request:**
 - Muhammad Ismail — Director of CEROC, TN Tech · [mismail@tntech.edu](mailto:mismail@tntech.edu)
 - William Eberle — MinDS Co-Director, TN Tech · [WEberle@tntech.edu](mailto:WEberle@tntech.edu)
-- ### Deleith Allen: Deleith.allen.ctr@us.af.mil
-Oracle WAM Administrator for BNH at AEDC
-
-### Samuel Harper: Life Coach samtharper615@gmail.com				     
-Graduate of Vanderbilt University and Stanford University. 
-Director of 911 Services: Manchester, TN
-                                           
-### Jeffery Porter: Store Manager at Academy Sports + Outdoors Japorter67@gmail.com
-20+ Years of Retail Experience
-
-### Shane Nelson: Store Director at Academy Sports + Outdoors Shane.nelson@academy.com
-
-### Kaitlyn Vest: Store Manager at Academy Sports + Outdoors Kaitlyn.vest@academy.com
+- Deleith Allen - Oracle WAM Administrator for BNH at AEDC · [Deleith.allen.ctr@us.af.mil](mailto:Deleith.allen.ctr@us.af.mil) 
+- Samuel Harper - Graduate of Vanderbilt University and Stanford University. 
+Director of 911 Services: Manchester, TN · [samtharper615@gmail.com](mailto:samtharper615@gmail.com)  				     
+- Shane Nelson - Store Director at Academy Sports + Outdoors · [Shane.nelson@academy.com](mailto:Shane.nelson@academy.com)                  - Jeffery Porter - Store Manager at Academy Sports + Outdoors · [Japorter67@gmail.com](mailto:Japorter67@gmail.com)                   
+- Kaitlyn Vest - Store Manager at Academy Sports + Outdoors · [Kaitlyn.vest@academy.com](mailto:Kaitlyn.vest@academy.com)
 
 ---
-
-<div align="center">
-<sub>📄 Resume on file · Last updated April 2026</sub>
-</div>
