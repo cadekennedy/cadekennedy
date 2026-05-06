@@ -149,12 +149,13 @@ Designed and delivered an **Automotive Industry dashboard** for data visualizati
 | LinkedIn | [linkedin.com/in/ckennedy14](https://www.linkedin.com/in/ckennedy14) |
 
 **References available upon request:**
+- Thomas Payne - Dean of College of Business, TN TECH · [TPayne@tntech.edu](mailto:TPayne@tntech.edu)
 - Muhammad Ismail — Director of CEROC, TN Tech · [mismail@tntech.edu](mailto:mismail@tntech.edu)
 - William Eberle — MinDS Co-Director, TN Tech · [WEberle@tntech.edu](mailto:WEberle@tntech.edu)
 - Deleith Allen - Oracle WAM Administrator for BNH at AEDC · [Deleith.allen.ctr@us.af.mil](mailto:Deleith.allen.ctr@us.af.mil) 
 - Samuel Harper - Graduate of Vanderbilt University and Stanford University. 
 Director of 911 Services: Manchester, TN · [samtharper615@gmail.com](mailto:samtharper615@gmail.com)  				     
-- Shane Nelson - Store Director at Academy Sports + Outdoors · [Shane.nelson@academy.com](mailto:Shane.nelson@academy.com)                  - Jeffery Porter - Store Manager at Academy Sports + Outdoors · [Japorter67@gmail.com](mailto:Japorter67@gmail.com)                   
+- Shane Nelson - Store Director at Academy Sports + Outdoors · [Shane.nelson@academy.com](mailto:Shane.nelson@academy.com)          - Jeffery Porter - Store Manager at Academy Sports + Outdoors · [Japorter67@gmail.com](mailto:Japorter67@gmail.com)                 
 - Kaitlyn Vest - Store Manager at Academy Sports + Outdoors · [Kaitlyn.vest@academy.com](mailto:Kaitlyn.vest@academy.com)
 
 ---
