@@ -1,7 +1,7 @@
 <div align="center">
 
 # Cade Kennedy
-
+![Cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadekennedy&show_icons=true&theme=radical)
 ### M.S. Computer Science | Data Analytics · Artificial Intelligence · Quantum Computing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ckennedy14-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ckennedy14)
