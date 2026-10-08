@@ -114,6 +114,7 @@ Designed and delivered a data visualization dashboard for **Urban Science** (Fra
 
 **References available upon request:**
 - Paul Smith - Manager, EPB Quantum Computing · [smithpj@epb.net](mailto:smithpj@epb.net)
+- Janet Rehberg - Chief Executive Officer, EPB · [rehbergjp@epb.net](mailto:rehbergjp@epb.net)
 - Thomas Payne - Dean of College of Business, TN TECH · [TPayne@tntech.edu](mailto:TPayne@tntech.edu)
 - Muhammad Ismail — Director of CEROC, TN Tech · [mismail@tntech.edu](mailto:mismail@tntech.edu)
 - William Eberle — MinDS Co-Director, TN Tech · [WEberle@tntech.edu](mailto:WEberle@tntech.edu)
