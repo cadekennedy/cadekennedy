@@ -13,7 +13,7 @@
 ## About Me
 As a recent graduate from Tennessee Technological University, I hold both a Master's and Bachelor's degree in Computer Science. My undergraduate studies focused on Data Science & Machine Learning, with a minor in Mathematics.
 
-Before completing my master's degree, I joined EPB in Chattanooga, TN, as a Quantum Software Engineering Fellow. This fellowship was a 1-Year NIST funded research program (ending in October 2026) with a primary focus on the development of Hybrid Quantum-Classical algorithms. In this role, I gained hands-on experience in a variety of areas, including:
+Before completing my master's degree, I joined EPB in Chattanooga, TN, as a Quantum Software Engineering Fellow. This fellowship was a 2-Year NIST funded research program (ending in October 2026) with a primary focus on the development of Hybrid Quantum-Classical algorithms. In this role, I gained hands-on experience in a variety of areas, including:
 
 - Developing optimization methods for optimal power flow
 - Compiling and transpiling quantum circuits
